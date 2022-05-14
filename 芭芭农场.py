@@ -302,9 +302,9 @@ def start_alipay():
 # fertilize()
 
 # alipay_task()
-alipay_fertilize()
+#alipay_fertilize()
 # start_taobao()
 # start_alipay()
-# for i in range(3):
-#     start_taobao()
-    # start_alipay()
+
+start_taobao()
+start_alipay()
